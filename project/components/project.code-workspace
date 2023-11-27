@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "../admin"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../css"
+		},
+		{
+			"path": "../images"
+		},
+		{
+			"path": "../js"
+		},
+		{
+			"path": "../uploaded_files"
+		}
+	]
+}
