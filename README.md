@@ -1,0 +1,2 @@
+# proiectpi
+proiect pi XEdu
